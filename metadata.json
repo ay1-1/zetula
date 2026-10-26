@@ -1,0 +1,6 @@
+{
+  "name": "Zetula — AI-Powered Video Enhancement Platform",
+  "description": "Transform ordinary handheld smartphone footage into cleaner, steadier, better-lit, professionally framed cinematic video with AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
